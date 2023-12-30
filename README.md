@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphic designing
 - 🌱 I’m currently learning coding/programming
 - 💞️ I’m looking to collaborate on system development
-- 📫 How to reach me: blakejustinbangcaya@gmail.com or instagram.com/blakebangcaya
+- 📫 How to reach me: blakejustinbangcaya@gmail.com or jxstn.exe on Discord
 
 <!---
 jxstn0319/jxstn0319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
