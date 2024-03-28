@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jxstn0319
 - 👀 I’m interested in graphic designing
 - 🌱 I’m currently learning coding/programming
-- 💞️ I’m looking to collaborate on system development
+- 💞️ I’m looking to collaborate on system/website development
 - 📫 How to reach me: blakejustinbangcaya@gmail.com or jxstn.exe on Discord
 
 <!---
